@@ -1,13 +1,13 @@
 {
-  "name": "react",
+  "name": "todo-react",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "UdemyReact入門_todo作成(React)",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "18.0.0",
-    "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
@@ -19,5 +19,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
